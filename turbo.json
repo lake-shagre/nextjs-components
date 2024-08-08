@@ -3,7 +3,7 @@
   "pipeline": {
     "dev": {},
     "build": {
-      "outputs": [".next/**"]
+      "outputs": [".next/**", ".next/packages/*"]
     },
     "lint": {},
     "test": {}
